@@ -1,0 +1,48 @@
+#wrapper{
+    margin: 0px auto;
+    height: 1000px;
+    width: 1650px;
+    text-align: center;
+}
+
+#top{
+    height: 100px;
+    width: 100%;
+    background-color: red;
+    text-align: left;
+    vertical-align: center;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+#mid{
+    height: 450px;
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+
+.place{
+    display: inline-block;
+    height: 375px;
+    width: 375px;
+    background-color: purple;
+    margin: 15px;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top:40px;
+}
+
+#bot{
+    height: 450px;
+    width: 100%;
+    text-align: center;
+}
+
+#log{
+    height: 90%;
+    width: 90%;
+    background-color: white;
+    display: inline-block;
+    margin-top: 23px;
+    text-align: left;
+}
